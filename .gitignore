@@ -3,6 +3,3 @@ dist
 
 src/**/*.js
 src/**/*.js.map
-
-config/**/*.js
-config/**/*.js.map
